@@ -30,7 +30,6 @@ def process_captions(captions):
   return processed_captions
 
 def summarize_text(text, model_id):
-  # Use LangChain's Bedrock class for easier model interaction
   bedrock_model = Bedrock(model_id=model_id, region=AWS_REGION,
                            aws_access_key_id=AWS_ACCESS_KEY_ID,
                            aws_secret_access_key=AWS_SECRET_ACCESS_KEY)
@@ -43,10 +42,9 @@ def summarize_text(text, model_id):
     for chunk in split_text:
       summary = bedrock_model.generate_text(chunk)
       summaries.append(summary)
-    # Combine or process summaries as needed (e.g., ensure coherence)
     return " ".join(summaries)  # Example: Combine summaries with spaces
   else:
-    # If text is within limit, call original functionality (existing approach)
+    # If text is within limit, call original functionality
     client = boto3.client('bedrock-runtime', 
                           region_name=AWS_REGION, 
                           aws_access_key_id=AWS_ACCESS_KEY_ID, 
