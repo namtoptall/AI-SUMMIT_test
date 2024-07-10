@@ -1,0 +1,7 @@
+boto3
+botocore
+re
+json
+langchain_aws
+langchain
+nltk

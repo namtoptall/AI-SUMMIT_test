@@ -1,0 +1,450 @@
+Nam Nguyen|00:00:04.126|Vâng thế thì có thể lấy các cuộc họp của mình so với nhau không?
+Hao Hua|00:00:05.266|Ừ.
+Nam Nguyen|00:00:09.576|Đúng.
+Hao Hua|00:00:10.816|Cái cuộc họp của mình so là so được đó em, nhưng mà vấn đề là
+Hao Hua|00:00:14.133|em phải là người viết simsbury đó và.
+Hao Hua|00:00:17.276|Để để để có cái tại vì để tính được những cái me trước đó thì
+Nam Nguyen|00:00:19.556|Thế thì vẫn phải.
+Hao Hua|00:00:21.286|phải có cái reference imari cái mà gọi là cái golden, cái dep
+Hao Hua|00:00:25.297|dao chuốt á để soi.
+Nam Nguyen|00:00:25.706|À?
+Hao Hua|00:00:27.466|Chứ dùng sky đó là hoạt đó, nó sẽ dựa trên cái gì để nó tính ra
+Hao Hua|00:00:30.417|được cái store đó sẽ giữ cho cái reference.
+Nam Nguyen|00:00:35.936|Vâng.
+Nam Nguyen|00:00:55.196|Vâng.
+Minh Nguyen Ngoc|00:00:55.296|Rồi bên.
+Hao Hua|00:00:55.356|À ha đúng không là anh sẽ suggest như vậy nè là có nghĩa
+Nam Nguyen|00:00:56.806|OK.
+Hao Hua|00:00:58.815|là mình sẽ em cứ OK bây giờ là em đã xong cái phần gọi là bill
+Hao Hua|00:01:02.638|nguyen cái.
+Hao Hua|00:01:04.766|Cái bloody từ jimbused như have a bug như thế nào? Vậy em cứ tìm
+Hao Hua|00:01:08.484|hiểu trên datasheet nhưng em nói á là có cái xuất ra đây ta nó có
+Hao Hua|00:01:12.260|ở ghana, cái input như thế nào là những user nó sắp xếp ra tay
+Hao Hua|00:01:15.865|như thế nào và mình có thể tham khảo đó và mình sử dụng mình
+Hao Hua|00:01:19.355|apply để mình.
+Nam Nguyen|00:01:19.946|Nó vẫn.
+Hao Hua|00:01:21.066|Tăng cái chất lượng để mình build được cái cái brom hoàn
+Hao Hua|00:01:24.008|chỉnh trước rồi sau này mà khi mà đến lượt mà mình dùng data để
+Hao Hua|00:01:27.311|xử lý các cái trang sức của mình á thì mình sẽ tìm cách lập pass
+Hao Hua|00:01:30.666|cái cái trên swift trên steam của mình nè giống giống cái
+Hao Hua|00:01:33.659|format của những cái datasheet đó. Lúc này khi đó thì cái brom
+Hao Hua|00:01:36.911|đã chuẩn rồi nó sẽ tạo ra xu ly OK hơn đó là anh street như vậy.
+Nam Nguyen|00:01:40.736|Dạ.
+Nam Nguyen|00:01:43.046|Dạ, vâng, cảm ơn ờ. Nhưng mà thế thì nếu mà muốn mà có nhiều ờ.
+Hao Hua|00:01:46.166|Ừ.
+Nam Nguyen|00:01:49.506|Input như thế thì hình như là phải dùng một cái model lớn hơn?
+Nam Nguyen|00:01:53.646|Tại em đang test cái datasheet của của một cuộc họp của mình
+Nam Nguyen|00:01:59.906|trên còn ờ Premier.
+Hao Hua|00:02:02.486|Và cái inbox đây ta xét đó là lớn đúng không? Thay vì tìm
+Nam Nguyen|00:02:02.896|Com.
+Nam Nguyen|00:02:05.526|Dạ, vâng.
+Hao Hua|00:02:05.539|model lớn hơn thì mình có thể là tặng cho nam ta nhỏ hơn và mình
+Nam Nguyen|00:02:08.736|Vâng.
+Hao Hua|00:02:08.962|có thể là kiểu giống như slick mainboard, có nghĩa là speed.
+Nam Nguyen|00:02:11.536|Vâng.
+Hao Hua|00:02:12.174|Cái giải chó thành chừng như nhau thì em cứ tham khảo trên
+Nam Nguyen|00:02:14.736|Vâng em em.
+Hao Hua|00:02:15.280|link trên đó nó sẽ có cái cái cái opensuse để xử lý cái dạng
+Hao Hua|00:02:18.492|data quá dài so với cái sai của model.
+Nam Nguyen|00:02:21.216|Ờ à? Vâng ạ, vâng.
+Hao Hua|00:02:24.226|Thay vì sử dụng mua đồ lớn, mình có thể dùng cái chân king
+Hao Hua|00:02:27.503|spitting đi tàu titanic.
+Nam Nguyen|00:02:32.926|Phẩy.
+Nam Nguyen|00:02:37.066|Ừm còn gì nữa k nhỉ?
+Kha Chau|00:02:44.026|Ờ.
+Kha Chau|00:02:50.376|Không?
+Nam Nguyen|00:02:52.756|Thế thì tiếp theo sẽ đến tim.
+Kha Chau|00:02:54.206|Giống mình.
+Nam Nguyen|00:02:57.226|Ừm đi beat gốc đây.
+Minh Nguyen Ngoc|00:02:59.596|Để về.
+Nam Nguyen|00:03:00.396|Dũng với cả.
+Minh Nguyen Ngoc|00:03:02.726|Để để để.
+Nam Nguyen|00:03:02.736|Mình nói gì?
+Minh Nguyen Ngoc|00:03:04.786|Để em share screen.
+Minh Nguyen Ngoc|00:03:09.196|Mọi người thấy stream em chưa?
+Hao Hua|00:03:11.816|Rồi.
+Kha Chau|00:03:13.386|Và thay đổi nha.
+Minh Nguyen Ngoc|00:03:14.766|Vậy ạ?
+Minh Nguyen Ngoc|00:03:16.756|Thì cái về setup tụi em đang setup 2 cái ơ.
+Minh Nguyen Ngoc|00:03:21.476|Một bên team với một bên room.
+Minh Nguyen Ngoc|00:03:23.996|Bình bình zoom thì setup các bước là nó là mình add được cái
+Minh Nguyen Ngoc|00:03:28.029|birkin, nó vô cái mấy tiếng rồi.
+Minh Nguyen Ngoc|00:03:30.916|Thì bên nó dễ hơn, còn bên team này thì đang bị dính cái.
+Minh Nguyen Ngoc|00:03:35.776|Cái cái cái request mà hôm bữa em có đề cập với thầy minh á.
+Minh Nguyen Ngoc|00:03:43.346|Cái này thì lúc mà lúc mà tụi em.
+Minh Nguyen Ngoc|00:03:46.786|Sinh để đi bớt thì nó lại dính cái phần.
+Minh Nguyen Ngoc|00:03:50.596|Account không đủ điều kiện.
+Minh Nguyen Ngoc|00:03:54.286|Một là cái aqara phải subscribe.
+Minh Nguyen Ngoc|00:03:58.946|Ờ s 5 hay là s 3 gì đó?
+Minh Nguyen Ngoc|00:04:01.956|Rồi trong cái đó là phải bật cái setting free app lên thì mình
+Minh Nguyen Ngoc|00:04:05.726|mới chạy mới đi bớt được cái cái cái cái. Ơ cái tiêm vắcxin này.
+Minh Nguyen Ngoc|00:04:11.296|Còn không là phải.
+Minh Nguyen Ngoc|00:04:13.786|Ờ để để để đủ tiêu chuẩn á thì phải dùng visio studio.
+Minh Nguyen Ngoc|00:04:19.286|Thì một.
+Minh Nguyen Ngoc|00:04:21.886|Vậy professional $45 một tháng á?
+Minh Nguyen Ngoc|00:04:25.366|Mẹ không biết là thầy minh không? Bữa thầy có hỏi trường à?
+Minh Nguyen Ngoc|00:04:28.956|Là là là có bật được cái cái cái cái settings đó là ông thầy.
+Minh Nguyen|00:04:33.456|Ừm cái này cái này mình phải có cái pô sao mình đưa lên mấy pố
+Minh Nguyen|00:04:37.504|xin được em.
+Minh Nguyen Ngoc|00:04:38.696|Dạ.
+Minh Nguyen|00:04:39.096|Là.
+Minh Nguyen|00:04:40.926|Hay mình không có tại vì khi mình mà cho nó lên có nghĩa là
+Minh Nguyen|00:04:44.265|ảnh hưởng đến cả cái cái tổ chức kinh doanh là chắc là không được
+Minh Nguyen|00:04:47.937|đâu. Mình phải nghĩ đến cái hướng làm cái vnpro á.
+Minh Nguyen Ngoc|00:04:51.366|Dạ dạ coi như cái đó thì ờ $45 một tháng.
+Minh Nguyen Ngoc|00:04:56.266|Mình làm khoảng.
+Minh Nguyen Ngoc|00:04:59.306|4 tháng thì coi như mất khoảng trăm $80.
+Minh Nguyen|00:05:03.486|Thì như vậy, tức là mình ghi cái Trafford sâu mà lại sinh cái
+Minh Nguyen|00:05:06.851|phần từ điển Pháp Vân tới 6 trận cho mình thì mình sẽ.
+Minh Nguyen|00:05:10.476|3 quần cái đó vào trong cái cái tụi yêu.
+Minh Nguyen Ngoc|00:05:14.046|Dạ dạ.
+Minh Nguyen|00:05:16.826|Tại vì nó có cái cái đó, nó nó.
+Minh Nguyen|00:05:20.726|Khác thường cái PS tao nó có mình coi mình thử trước rồi có
+Minh Nguyen Ngoc|00:05:21.176|Phẩy.
+Minh Nguyen|00:05:24.333|dùng được không đã.
+Minh Nguyen Ngoc|00:05:26.756|Dạ dạ rồi.
+Minh Nguyen Ngoc|00:05:28.826|Trade thì trade một tháng.
+Minh Nguyen Ngoc|00:05:31.726|Màn đêm thật dạ.
+Minh Nguyen|00:05:31.836|Ừ.
+Minh Nguyen Ngoc|00:05:35.616|Ờ còn bên dũng ơi, dũng sessrin cái bên dung nó dục.
+Dung Nguyen|00:05:40.896|K thì bây giờ em sẽ Xem cái phần.
+Dung Nguyen|00:05:44.926|Mặc dù phone.
+Dung Nguyen|00:05:51.106|Dạ em không biết mọi người bỏ xác rồi chị bên đây là.
+Dung Nguyen|00:05:54.716|Tiếp đó cho phần run thì em sẽ dùng để em tạo một cái.
+Dung Nguyen|00:06:00.596|Độ mặn h cho tp anh Xem nối vào cái novgorod nặng, nó sẽ thể
+Dung Nguyen|00:06:03.505|hiện ra được.
+Dung Nguyen|00:06:05.156|Ờ show ra thì chia tay.
+Dung Nguyen|00:06:09.226|Thì khi mà màn dịp lôi lên.
+Dung Nguyen|00:06:15.986|Mới thì.
+Dung Nguyen|00:06:19.786|Khi mà em chạy theo nó thì nó sẽ có một cái đường link.
+Dung Nguyen|00:06:23.736|Thì sẽ có.
+Dung Nguyen|00:06:25.826|Trong cái phim.
+Dung Nguyen|00:06:33.356|Nói cho cho cho phép em install cái app này lên room thì sau khi
+Dung Nguyen|00:06:37.698|install lên rồi thì nó sẽ.
+Dung Nguyen|00:06:40.246|Thì trên YouTube nó sẽ thể hiện như vậy như nào?
+Dung Nguyen|00:06:42.696|Cũng phải stupid things.
+Dung Nguyen|00:06:46.746|Ờ.
+Dung Nguyen|00:06:50.296|Ừ.
+Dung Nguyen|00:06:55.476|Thì cái app, mối quan hệ hoạt động.
+Dung Nguyen|00:06:57.916|Trên đây, khi mà xoài chỗ này thì đó là tụi em dừng ở mức set
+Dung Nguyen|00:07:02.156|up cho giun với lại team.
+Dung Nguyen|00:07:06.406|Thì bên dung thì setup app thì nó đơn giản hơn so với tim.
+Minh Nguyen Ngoc|00:07:26.816|Nó thanh bình vậy, vậy bao giờ thì mình gửi cái cái cái
+Minh Nguyen Ngoc|00:07:30.322|proposal của cái giá lên trường cho trường duyệt thầy?
+Huy Vo|00:07:47.816|À lô anh minh ơi.
+Huy Vo|00:07:51.006|Phẩy.
+Minh Nguyen|00:07:51.026|À à thế à thế anh yêu.
+Minh Nguyen|00:07:53.506|Và ờ thì cái này mình.
+Minh Nguyen|00:07:56.856|Viết chung á viết chung cái phần về cái với fps luôn.
+Minh Nguyen Ngoc|00:08:02.486|Dạ.
+Minh Nguyen|00:08:02.956|Rồi sau đó mình gọi là thiềm từ đầu kỳ là có nói là mỗi nhóm sẽ
+Huy Vo|00:08:03.056|Phẩy.
+Minh Nguyen|00:08:07.530|được hỗ trợ tối đa là khoảng tầm 10 triệu á thì Việt Nam mình á.
+Minh Nguyen Ngoc|00:08:13.216|Là khoảng $400.
+Minh Nguyen|00:08:26.046|Bạn v xpro lúc này là nó chỉ cho starup sound, đó là cloud. Nó
+Minh Nguyen|00:08:30.731|không có cái bản chạy trên máy nha bạn.
+Minh Nguyen Ngoc|00:08:36.526|Dạ.
+Minh Nguyen|00:08:42.636|Nếu mà xếp trên trên cloud, cái mô hình chạy trên acer thì nó nó
+Minh Nguyen|00:08:47.854|nó nó cho phép mình sử dụng cái ơ cái a.
+Minh Nguyen|00:08:51.906|Tại trường, nó sẽ cho mình xài luôn đi, có khoảng 200 đầu quen,
+Minh Nguyen|00:08:55.298|biết á thì mình tạo cái khác trước đó.
+Minh Nguyen Ngoc|00:09:00.556|À là nó có sẳn trên trên YouTube thôi.
+Nam Nguyen|00:09:04.056|Cloud.
+Minh Nguyen|00:09:04.176|Nhưng mà không biết là cái cái cái không biết là cái cái cho
+Minh Nguyen|00:09:08.236|phép sử dụng với cái xpro đó hay không? Chắc là mình thử mình tạo
+Minh Nguyen Ngoc|00:09:11.586|Phẩy.
+Minh Nguyen|00:09:12.630|một cái acc cao trên đó thì thường nó sẽ cho kẹo cao. Ban
+Minh Nguyen|00:09:16.491|đầu mình tạo ra cái acer thì nó sẽ cho mình $200 á để giải.
+Minh Nguyen|00:09:23.966|Đó là trước đây để than máy khoan giờ nó còn cái cái chế độ
+Minh Nguyen Ngoc|00:09:27.986|Dạ.
+Minh Nguyen|00:09:28.382|đó không còn cách là tự á.
+Minh Nguyen Ngoc|00:09:31.106|Trên trên.
+Minh Nguyen|00:09:31.136|Nhưng mà.
+Minh Nguyen|00:09:34.456|Cô lên lên lên thẳng.
+Minh Nguyen Ngoc|00:09:34.556|Thầy thầy nói.
+Minh Nguyen|00:09:36.006|À có con trai?
+Nam Nguyen|00:09:36.066|À your hình như là giờ nó có?
+Nam Nguyen|00:09:40.406|Nó có id riêng của nó rồi.
+Minh Nguyen|00:09:46.296|Không ý là cái cái cái tiền khi mình tạo ra cao cho nó tạo ra
+Minh Nguyen|00:09:50.157|cao trên ban đầu thì nó sẽ cho mình một cái để mình dịch thử
+Minh Nguyen|00:09:53.956|nhá.
+Minh Nguyen|00:09:55.006|Tại vì $200 á chúng ta chụp xong giờ chắc phải kiểm lại tại chính
+Minh Nguyen|00:09:58.511|sách nó phải thay đổi á.
+Nam Nguyen|00:10:01.176|Phẩy.
+Minh Nguyen|00:10:05.856|Với lại, mình sẽ dùng cái v xpro thử cái bảng treo một tháng nha
+Minh Nguyen|00:10:10.792|thử.
+Minh Nguyen|00:10:11.806|Nó dùng được cái đó, ha.
+Minh Nguyen Ngoc|00:10:11.956|Dạ rồi.
+Minh Nguyen Ngoc|00:10:13.866|Nhờ.
+Minh Nguyen|00:10:16.676|Còn cái cái phần đó mình gặp trung với lại cái AWS á mình
+Minh Nguyen|00:10:20.435|viết một lần rồi chắc là rồi bắt đầu vô học kỳ lại á mình sẽ nộp
+Minh Nguyen|00:10:24.648|lại bên sẽ lên trên bộ môn để duyệt.
+Minh Nguyen Ngoc|00:10:27.746|Dạ rồi.
+Minh Nguyen Ngoc|00:10:37.706|Rồi thì show for là poiret, tụi em là đến đó.
+Minh Nguyen Ngoc|00:10:44.406|Phẩy.
+Tri Tran|00:10:45.516|Cái team á.
+Tri Tran|00:10:47.606|Cái team đó, mình có mình mình mình có thí dụ mà tụi em tự
+Tri Tran|00:10:51.679|setup một cái.
+Tri Tran|00:10:53.316|Chúng ta có chồng mình phép mình develop cho là cao cá nhân không
+Tri Tran|00:10:56.186|hay là cái gì không?
+Tri Tran|00:10:58.586|Bạn gì bạn thì nãy mới nói ta bạn ngọc hả?
+Minh Nguyen|00:11:01.816|Huỳnh Ngọc Hân.
+Minh Nguyen Ngoc|00:11:03.656|Dạ dạ sao sao?
+Tri Tran|00:11:05.496|Ý là cái team á cái themes là chỉ có cái solution là thí dụ là
+Tri Tran|00:11:09.216|tụi em đang xài cái cái cái enterprise của trường đó không
+Tri Tran|00:11:12.700|thì càng của trường lắm giờ. Ví dụ giả sử như mình đăng kí cái
+Tri Tran|00:11:16.420|tim mà dạng như cá nhân á.
+Tri Tran|00:11:18.576|Là mình develop trên đó có được không? Hay là bắt buộc nó phải
+Tri Tran|00:11:23.277|là dạng như phải?
+Tri Tran|00:11:25.456|Phải suprice này cái kiểu.
+Minh Nguyen Ngoc|00:11:27.306|Dạ đúng rồi cũng cũng bắt buộc phải subscribe AA 3 a 5 hoặc là
+Minh Nguyen Ngoc|00:11:31.802|cái cái cái acount cá nhân đó phải dùng visual studio
+Minh Nguyen Ngoc|00:11:35.655|professional á.
+Minh Nguyen|00:11:38.376|À cái này mình hỏi thăm anh luôn là bên bên mình có cái cái lái
+Tri Tran|00:11:38.406|Ừ.
+Minh Nguyen|00:11:41.736|sân của video studio interrail không ạ?
+Tri Tran|00:11:44.816|Ờ dạ bên đây không có xài, không có xài veetle TV ô thầy ơi.
+Tri Tran|00:11:50.276|Bên đây mọi người bên đây, mọi người xài bên thằng sếp friend
+Minh Nguyen Ngoc|00:11:50.416|Chà.
+Minh Nguyen|00:11:50.726|Phẩy.
+Tri Tran|00:11:54.616|nhiều hơn.
+Minh Nguyen|00:11:56.576|Ờ à?
+Minh Nguyen Ngoc|00:11:59.776|Thầy không không chùm.
+Minh Nguyen|00:12:00.416|Và.
+Minh Nguyen|00:12:02.356|Không xếp brand, nó có cái thằng gì, chơi cái thằng mà hỗ trợ cái
+Minh Nguyen|00:12:06.672|là con gì?
+Tri Tran|00:12:08.366|Ừm có nhưng mà ý là nó nếu mà để pha với lại nói chung là hệ sinh
+Minh Nguyen Ngoc|00:12:11.186|Phẩy.
+Tri Tran|00:12:12.716|thái của thằng Microsoft thì mọi người thường sử dụng vi e nhiều.
+Minh Nguyen Ngoc|00:12:14.526|Phẩy.
+Tri Tran|00:12:18.786|Rain nó cũng có cái cái cái cái.
+Tri Tran|00:12:22.256|Cái để mà develop sexy.
+Minh Nguyen|00:12:28.096|Ừ.
+Minh Nguyen|00:12:31.826|Cái này chắc là Ngọc Hân bên bên nhà mình, chắc mình thử cái cái
+Minh Nguyen|00:12:35.588|hồi trước nha nha ngọc mình với lại bạn dũng á.
+Minh Nguyen Ngoc|00:12:39.016|Dạ dạ.
+Minh Nguyen|00:12:39.066|Thì sau đó mình cho mình biết thêm cái phần mình mình nhờ mình
+Dung Nguyen|00:12:40.316|Dạ, vâng.
+Minh Nguyen|00:12:43.173|xin cái hỗ trợ từ cục pháp. Anh cũng có thể là để thầy Xem ở
+Minh Nguyen|00:12:47.149|trên trường cho nó có lợi chứ không có cho cái bảng cá nhân.
+Tri Tran|00:12:50.226|Mình thề.
+Minh Nguyen|00:12:51.786|Vậy?
+Minh Nguyen Ngoc|00:12:51.856|Dạ rồi.
+Tri Tran|00:12:52.106|Ingemar mình gồm một bạn trial, một tháng mình có vài cái driver
+Tri Tran|00:12:56.712|cạc thì mình cứ add vô mình travel xong rồi mình cancel
+Tri Tran|00:13:00.681|thôi.
+Minh Nguyen|00:13:02.056|Phẩy.
+Minh Nguyen Ngoc|00:13:02.146|Phẩy.
+Minh Nguyen Ngoc|00:13:02.306|Hiểu hiểu hiểu cũng được.
+Tri Tran|00:13:08.766|Việc ngành nghề mình chơi chiêu mình chơi một tháng xong mình
+Minh Nguyen|00:13:09.376|Ừ.
+Tri Tran|00:13:11.484|tạo cao khác ha.
+Minh Nguyen Ngoc|00:13:14.696|Cũng được ạ dạ để em tự thật à?
+Tri Tran|00:13:17.996|Như với lại anh anh, anh, anh, anh, anh, anh nghĩ sao? Tại vì
+Minh Nguyen|00:13:18.496|Phẩy.
+Minh Nguyen Ngoc|00:13:18.646|Vâng.
+Tri Tran|00:13:21.570|cái hổng biết cái cái của thằng team như thế nào? Tại vì cái
+Tri Tran|00:13:25.086|này, cái líp pin này là dạng như là build vô market play của nó
+Tri Tran|00:13:28.776|và nó lại chạc mà nó lại bắt mình phải tốn tiền à?
+Minh Nguyen Ngoc|00:13:32.126|Nhà đúng rồi, ờ vogmask cableway là cái cái người làm cái app, đó
+Minh Nguyen Ngoc|00:13:36.418|là phải có lify vô cái để lớp để vlogger program mấy cái tiêu chí
+Tri Tran|00:13:40.696|À?
+Minh Nguyen Ngoc|00:13:40.710|là hồi nãy em nói đó.
+Tri Tran|00:13:42.726|À OK.
+Minh Nguyen Ngoc|00:13:43.796|Dạ đường nào cũng cũng phải phải tốn tiền.
+Tri Tran|00:13:48.026|Giống như apple, apple app lên trên store là phải mua cao.
+Minh Nguyen|00:13:50.736|Đúng rồi ạ.
+Minh Nguyen Ngoc|00:13:52.206|Thì đúng luôn đúng luôn.
+Minh Nguyen|00:13:59.916|Phẩy.
+Tri Tran|00:14:01.826|OK vậy chắc tụi em.
+Tri Tran|00:14:04.626|Nghiên cứu thêm kỹ thêm phần tim đi.
+Minh Nguyen Ngoc|00:14:07.606|Dạ dạ.
+Tri Tran|00:14:08.566|Ừ tại vì mình nếu mà mình mình ví dụ như mình à, thật ra là nó
+Minh Nguyen Ngoc|00:14:09.486|Còn cái bên bên.
+Tri Tran|00:14:12.389|bên bên bên bên room nó đơn giản hơn đúng không thì thì anh thấy
+Tri Tran|00:14:16.333|cái cuối cùng đó là chỉ là cái phần, cái đó chỉ là cái phần
+Tri Tran|00:14:19.974|phân phân đôi khi client thôi, còn cái phần back end phía
+Tri Tran|00:14:23.494|server á là mình cũng nên focus mình làm cho 5 phần đó luôn.
+Minh Nguyen Ngoc|00:14:28.686|Dạ.
+Minh Nguyen|00:14:29.376|Đúng rồi, cái cái cái ý mình cũng vậy nha là có nghĩa là bên
+Minh Nguyen|00:14:33.018|bên kia mình Xem, phân phối lại cái cái.
+Minh Nguyen|00:14:36.396|Lực lượng mình làm cơ thể mình rồi mới qua bên AI tại vì cái đó
+Minh Nguyen|00:14:39.941|là vẫn là cái chính á cái mà sam brody sinh vẫn là cái chính là
+Minh Nguyen|00:14:43.486|mình làm sao?
+Minh Nguyen|00:14:44.806|Mình có được cái đó, cái cổ xe buýt của mình là xong trước.
+Minh Nguyen|00:14:48.676|Sau đó mình mới mấy cái một lớp kim vào và mấy cái mình defqwop
+Minh Nguyen|00:14:52.332|mình làm cho hoàn thiện hệ thống sao hiện giờ là mình cần cái
+Minh Nguyen|00:14:55.874|phần mà mình lấy vinfruits từ cái audio từ cháp này nọ mình ra
+Minh Nguyen|00:14:59.474|được cái bản thân duy cái đó là cái chính mình, mình là phải là
+Tri Tran|00:15:03.006|Thì.
+Minh Nguyen|00:15:03.130|mình.
+Minh Nguyen|00:15:04.366|Thì một người qua một cái nhóm này, ai để mà làm cho cái cái đó
+Minh Nguyen|00:15:08.726|ra trước á?
+Tri Tran|00:15:10.776|Ấy ví dụ như cái phần mà cüt á, nếu mà tòa hiện tại tụi tụi em
+Tri Tran|00:15:14.400|mà không có thời gian không đủ thời gian á thì các bạn sai cj
+Tri Tran|00:15:17.966|á. Thì thì mình có thể là mình à. Mình ripping ở local cũng
+Tri Tran|00:15:21.418|được có nghĩa là.
+Tri Tran|00:15:23.146|Về về mặt cơ bản thì CACD là gì? Có nghĩa là nó sẽ giúp tụi em là
+Tri Tran|00:15:26.678|OK. Là b ordroid mình ờ bay bằng blind này kia đúng không? Thì nó
+Hao Hua|00:15:29.486|Phẩy.
+Tri Tran|00:15:30.211|là automation. Nó không. Bây giờ tụi em hoàn toàn có thể.
+Tri Tran|00:15:34.196|Mnioes được bằng cách thí dụ trong trong những cái app của
+Tri Tran|00:15:37.136|mình mình có một cái file, ví dụ như file file, file, build file
+Tri Tran|00:15:40.376|deployer gì đó thì khi cần mình trước giơ cái đó là nó sẽ đẹp
+Tri Tran|00:15:43.466|lôi lên lao. Thôi thì về bản chất cuối cùng nó cũng chạy
+Tri Tran|00:15:46.307|script thôi.
+Tri Tran|00:15:50.426|Ví dụ như bên ios thì để đi thì tôi a lô mét thì tụi em có thể
+Tri Tran|00:15:54.209|dùng cgcc gk của anh love is hoặc tụi em có thể dùng sevelen
+Tri Tran|00:15:57.873|farnworth. Nếu mà tụi em muốn đi bơi những cái.
+Tri Tran|00:16:01.886|Cái nào liên quan tới is blind rồi mấy cái sv nói chung mấy cái
+Tri Tran|00:16:05.808|tên á là sv đẹp fan cuồng phong siêu đẹp vượt nhưng mà không có
+Minh Nguyen Ngoc|00:16:06.566|Phẩy.
+Tri Tran|00:16:09.731|nghĩa là nó chỉ hỗ trợ lâm gia đúng không? Có thể giúp mình là
+Tri Tran|00:16:13.592|deployer ristori rồi tạo lamda rồi tạo event rất là nhiều cái
+Tri Tran|00:16:17.392|đó.
+Tri Tran|00:16:18.356|Thì tụi em coi thử có nghĩa là mình không nhất thiết là bắt
+Tri Tran|00:16:21.466|buộc phải đi theo một cái sqishy cj tool nào đó mà nếu thời gian
+Minh Nguyen Ngoc|00:16:22.646|Phẩy.
+Tri Tran|00:16:24.836|có giới hạn để mình đi nhanh á thì có thể là mình mời đi bộ
+Tri Tran|00:16:27.947|cũng được.
+Minh Nguyen Ngoc|00:16:33.636|Dạ.
+Nam Nguyen|00:16:33.816|Dạ, vâng.
+Hao Hua|00:16:35.506|Ờ anh nói thêm, cái nữa là mình cái cái có cái tên fletching đồ
+Hao Hua|00:16:39.975|rồi make up story hiệu mình á trong quá trình làm mà mấy em có
+Hao Hua|00:16:44.375|cần add ai? Có thắc mắc gì đó thì có thể post lên đó rồi à?
+Hao Hua|00:16:49.456|Rồi anh sẽ.
+Hao Hua|00:16:51.516|Ờ có thể là đưa ra những cái đề xuất này nọ trên kênh cá đó
+Hao Hua|00:16:55.716|trong quá trình làm chứ không phải chưa, không cần nhất thiết
+Minh Nguyen Ngoc|00:16:58.146|Đây ạ?
+Hao Hua|00:17:00.056|phải đợi đến hôm nay đâu thì trong quá trình làm có gì thắc
+Nam Nguyen|00:17:02.386|À?
+Hao Hua|00:17:04.256|mắc hoặc là có cái chỗ nào sót lại có thể lên đó học.
+Hao Hua|00:17:08.836|Ờ giỏi rồi tôi cần.
+Minh Nguyen Ngoc|00:17:13.006|Giày OK.
+Hao Hua|00:17:13.606|Phẩy.
+Minh Nguyen|00:17:35.096|Đúng không mấy cái phần jsg thì mình plan trước cho cái hoàn
+Minh Nguyen|00:17:38.893|thiện cái hệ thống.
+Minh Nguyen|00:17:40.996|Không nhưng mà cái phần core services mình cái phần ko mình
+Huy Vo|00:17:42.496|Phẩy.
+Minh Nguyen|00:17:44.222|mình phải cũng phải tự mình làm trước cái đó. Tại vì hiện giờ
+Minh Nguyen|00:17:47.555|mình đang làm là cũng trên cái development investment thôi nên
+Minh Nguyen|00:17:50.943|là cái thôi cũng cũng chưa đâu. Mình phải tập trung vô cái phần
+Minh Nguyen|00:17:54.384|con của mình trước.
+Huy Vo|00:17:57.436|Dạ vâng, dạ vâng.
+Minh Nguyen Ngoc|00:17:59.366|Phẩy.
+Huy Vo|00:17:59.426|Dạ.
+Minh Nguyen|00:18:01.426|Tại vì khi viết xong.
+Huy Vo|00:18:01.426|Dạ rồi OK.
+Minh Nguyen|00:18:03.186|Còn cái read của mình á?
+Huy Vo|00:18:03.866|Giờ sao giờ sao thầy?
+Minh Nguyen|00:18:06.156|Vào cái purex mình tại vì cái cái, cái cái tiêu đề của cái
+Minh Nguyen|00:18:10.105|mình là isomerase sinh nhưng mà người ta chưa thấy được cái cái
+Minh Nguyen|00:18:14.389|gì hết là tập trung vào cái phần đó.
+Huy Vo|00:18:20.716|Dạ, vâng dạ để em để tụi em xen nhau bên này à?
+Nam Nguyen|00:18:24.116|Lại.
+Minh Nguyen|00:18:24.606|Ừ.
+Huy Vo|00:18:26.596|Dạ.
+Huy Vo|00:18:28.756|Ok.
+Tri Tran|00:18:31.986|Hello anh á cái cái tinhte này ai họ chỉ build cái cái tuần gọi
+Nam Nguyen|00:18:32.616|Ừ.
+Huy Vo|00:18:35.566|Phẩy.
+Tri Tran|00:18:35.767|là giống như cái cái ờ, cái xử lý cái cái não của cái ứng dụng
+Tri Tran|00:18:39.490|mình thôi. Còn về mấy bạn teen love from rất là quan trọng là
+Tri Tran|00:18:43.153|có phải phải phải support của bạn AI ai dựng lên được cái
+Huy Vo|00:18:45.596|Phẩy.
+Tri Tran|00:18:46.580|design và để cho có nơi để cho những cái ai, ai mua đồ nó chạy
+Tri Tran|00:18:50.303|hoặc là của bạn hay ai chạy thì cái đó nó cũng quan trọng lắm.
+Huy Vo|00:18:55.536|Dạ nói chung thì em thấy là dâu nào trong đấy cũng quan trọng
+Tri Tran|00:18:57.946|Ờ.
+Huy Vo|00:18:58.702|mọi người phải làm việc với nhau thì nó mới ra được cái app
+Tri Tran|00:18:59.906|Ờ thì bây giờ tụi em focus vô thí dụ như thí dụ như là tụi em
+Huy Vo|00:19:01.766|kayson chứ chứ dạ.
+Tri Tran|00:19:03.232|focus vô đầu tiên, nếu mà cái team cái cái timeline với lại
+Tri Tran|00:19:06.452|cái room mình chưa developer có thể là gặp gram đó mình giờ mình
+Tri Tran|00:19:09.939|focus khoảng 3 tin trước đi có nghĩa là mình có thể tương tác
+Tri Tran|00:19:13.266|với hệ thống thông qua ypj trước cái đã PS là nó work well hết
+Tri Tran|00:19:16.646|rồi, ok, cuối cùng thì sau này mình viết cái phơ, cái cái cái
+Tri Tran|00:19:19.973|cái phần.
+Tri Tran|00:19:21.236|Ờ interfaces thì nó nó nó làm sao cũng được.
+Minh Nguyen Ngoc|00:19:29.076|Dạ rồi.
+Nam Nguyen|00:19:29.176|Dạ, vâng.
+Minh Nguyen|00:19:42.326|Ừ.
+Minh Nguyen|00:19:42.776|Còn cái gì để discusses không ta?
+Nam Nguyen|00:19:43.426|Ờ.
+Minh Nguyen|00:19:46.806|T nam nam nói gì nào?
+Nam Nguyen|00:19:48.346|Ypj thì không biết là mình có một cái organization trung.
+Huy Vo|00:19:55.476|Là sao nè?
+Nam Nguyen|00:19:56.706|Ờ ý, tức là.
+Nam Nguyen|00:19:59.736|Bây giờ mà chạy riêng ở trên máy của mỗi người thì dùng api
+Huy Vo|00:20:01.946|Phẩy.
+Nam Nguyen|00:20:03.545|riêng.
+Huy Vo|00:20:06.546|Ypj riêng là sao AP ah hay là ypj gì mới được chứ?
+Nam Nguyen|00:20:09.436|Ừ là cái API cái APS secret ý.
+Nam Nguyen|00:20:16.846|Những cái đó là cái ơ.
+Huy Vo|00:20:17.226|À trước khi cho cái model trung á hả?
+Nam Nguyen|00:20:19.446|Ừ.
+Huy Vo|00:20:19.926|Thì thì trước mắt là mình cứ tạo một chung một cái mình dùng thôi
+Huy Vo|00:20:23.316|xong rồi, lúc mình đi plore lên thì chỉ cần đổi khi thôi.
+Huy Vo|00:20:26.966|Ấy là ấy là cái cái khi á nó cũng không.
+Nam Nguyen|00:20:28.206|Tôi đang dùng cái riêng của tôi thì tết.
+Huy Vo|00:20:31.776|Ừm thì cái khi đó thật ra là nó cũng không có, không có phức tạp
+Nam Nguyen|00:20:32.286|Không biết là.
+Huy Vo|00:20:34.627|đâu mà đấy là lúc mà lên thì mình đổi rất là.
+Tri Tran|00:20:35.046|Cái.
+Nam Nguyen|00:20:36.786|Phẩy.
+Tri Tran|00:20:37.496|Cái cái cái anh anh c với em tí xíu ha thì cái cách mà những
+Huy Vo|00:20:39.346|Phẩy.
+Tri Tran|00:20:40.606|resort có lớp bé nó work á nó sẽ không có dùng cái key giống như
+Tri Tran|00:20:43.921|tụi em nói đâu.
+Tri Tran|00:20:45.406|Mà nó.
+Nam Nguyen|00:20:46.076|Ừ.
+Tri Tran|00:20:47.456|Nói chung là khi mà em xài cái thằng.
+Tri Tran|00:20:50.256|Em xài những người xung quanh lúc hết á thì em nó sẽ dùng cái
+Tri Tran|00:20:53.744|ron, đó là sumgon để nó chạy.
+Nam Nguyen|00:20:56.346|Phẩy.
+Nam Nguyen|00:20:57.156|Dạ.
+Tri Tran|00:20:57.896|Anh hãy ở trong cái code của tụi em là tụi em có set cái 3 cái
+Tri Tran|00:21:01.613|key rồi đúng không? Cái đó thì để đi với lớp trên local thôi.
+Tri Tran|00:21:05.272|Nhưng mà khi mà mình đi ploi lên trên cái máy, cái computers in
+Tri Tran|00:21:09.048|của của của của của của Everest đó thì á là mấy cái cây đó, mình
+Tri Tran|00:21:12.884|sẽ không cần phải báo mình, nó tự động nó rap vô bên trong cái
+Tri Tran|00:21:16.601|thằng có nghĩa là cái khi mà tạt một cái runtime virumaa lên có
+Tri Tran|00:21:20.378|nghĩa là nó mặc định nó sẽ bay đến cái những cái key đó vào bên
+Tri Tran|00:21:24.154|trong cái container đó rồi luôn cho tụi em rồi ở dưới dạng là OS
+Tri Tran|00:21:27.989|thì ramen rồi.
+Tri Tran|00:21:31.206|Đó nên nên nên nên tụi em không cần phải xếp vào kiểu đó kiểu
+Nam Nguyen|00:21:31.636|À?
+Tri Tran|00:21:34.439|đó.
+Nam Nguyen|00:21:35.616|Vâng.
+Minh Nguyen|00:21:36.066|Cái này nếu mà huy mà phụ cắt cái phần AWS thì em phải.
+Minh Nguyen|00:21:40.996|Tạo ra cái user và tạo ra mấy cái rune đó để khi viết cái
+Minh Nguyen|00:21:45.239|alarm ra thì mình sẽ cho cái rune đó xúm vô cái cái nandana
+Minh Nguyen|00:21:49.629|soomro mà mình mún á.
+Minh Nguyen|00:21:52.196|Nên là quy phải admin huy sẽ là anchor cái phần hệt usd nó huy.
+Huy Vo|00:21:56.996|Dạ, dạ đúng rồi, đúng rồi thì lúc mà em tạo ra em sẽ làm cái
+Huy Vo|00:22:00.568|acc pino mà em sẽ rất sekarang anh ạ. Có nghĩa là là lên trên
+Huy Vo|00:22:04.200|kia thì nó sẽ đi theo đúng cái trình tự đó dạ vâng.
+Minh Nguyen|00:22:08.646|Con không cần phải làm cái organisational cho nó phức tạp
+Minh Nguyen|00:22:11.734|đâu mình chỉ làm hết main bình thường rồi tạo ra các cái user
+Huy Vo|00:22:14.836|Phẩy.
+Minh Nguyen|00:22:15.035|dưới dưới mình thôi chứ không cần phải là tổ chức rồi kể cho
+Huy Vo|00:22:17.396|Dạ.
+Minh Nguyen|00:22:18.283|ông.
+Huy Vo|00:22:19.466|Dạ dạ, vâng.
+Huy Vo|00:22:26.256|Dạ rồi ok ờ không biết là mình cần cái gì sn không ta.
+Minh Nguyen|00:22:34.006|Đến với hà có ý kiến như này thôi.
+Huy Vo|00:22:36.286|Sinh nhật.
+Tri Tran|00:22:37.626|Ờ chắc là em chứ không có có có không có ý kiến thì nó thiệt.
+Hao Hua|00:22:43.916|Em cũng hát em.
+Huy Vo|00:22:47.546|Phẩy.
+Huy Vo|00:22:47.696|Dạ, vâng, vậy thì chắc là dạ em xin phép đóng cái mitting này dạ
+Minh Nguyen|00:22:47.886|Ờ nếu không có gì nữa.
+Huy Vo|00:22:51.654|rồi em cảm ơn mọi người.
+Minh Nguyen|00:22:54.206|Ờ cảm ơn mọi người.
+Hao Hua|00:22:55.036|Và.
+Tri Tran|00:22:56.166|Dạ cảm ơn bạn.
+Kha Chau|00:22:57.116|Dạ cảm ơn bạn gì?
+Minh Nguyen Ngoc|00:22:58.266|Bà bằng.
+Tri Tran|00:22:58.926|Phẩy.
+Dung Nguyen|00:23:00.536|Dạ, chào anh.
+Dung Nguyen|00:23:03.256|Phẩy.

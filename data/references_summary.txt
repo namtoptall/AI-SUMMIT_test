@@ -1,0 +1,46 @@
+Meeting Summary: Generative Human Capstone Project Team and TymeX Company Supervisors
+Number of Attendees:
+8 participants
+
+Participants:
+
+Nam Nguyen
+Hao Hua
+Minh Nguyen Ngoc
+Kha Chau
+Dung Nguyen
+Huy Vo
+Tri Tran
+Minh Nguyen
+Key Discussion Points:
+
+Project Scope and Objectives:
+
+Clarification of project deliverables, timelines, and expectations.
+Discussion on aligning project goals with TymeX requirements.
+Technical Challenges:
+
+Deployment and integration of Lambda functions and other cloud services.
+Potential hurdles and solutions, including the need for specific models and tools.
+Tools and Resources:
+
+Evaluation of tools and resources, with a focus on efficient usage.
+Consideration of alternative solutions if time constraints arise.
+Task Allocation:
+
+Clear distribution of responsibilities among team members.
+Emphasis on understanding individual roles and specific tasks.
+Decisions Made:
+
+Tool Selection:
+Agreement on primary tools for project development and deployment, ensuring compatibility and efficiency.
+Follow-up Meeting:
+Scheduled to review progress and address emerging issues.
+Documentation:
+Preparation and sharing of detailed technical setup and project plan documentation.
+Action Items:
+
+Resource Access:
+Ensure all team members have access to necessary tools and resources.
+Progress Tracking:
+Regular updates and tracking to maintain the project schedule.
